@@ -47,4 +47,4 @@ python main.py
 3. **Adjust the window size and position:**
 
 - Drag the window by clicking and holding the left mouse button.
-- Resize the window by adjusting its geometry in the script (root.geometry("100x50")).
+- Resize the window by adjusting its geometry in the script (root.geometry`("100x50")`).
